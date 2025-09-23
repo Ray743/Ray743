@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Raynold Bobola  
+# Hi, I'm Raynold Bobola  
 
 🌍 Based in Papua New Guinea | 💻 Developer | 🚀 Tech Explorer  
 
