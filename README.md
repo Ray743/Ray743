@@ -11,7 +11,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Communities
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raynold-bobola-740b64341)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@ViReels-i8q)  
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13772807/ray)
@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 Projects
-- 🔎 [**Seeker**](https://github.com/raynoldbobola/seeker) – Job board platform for Papua New Guinea  
+- 🔎 [**Seeker**](https://ray743.github.io/The-Seeker) – Job board platform for Papua New Guinea  
 
 ---
 
