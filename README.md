@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 Projects
-- 🔎 [**Seeker**](https://ray743.github.io/The-Seeker) – Job board platform for Papua New Guinea  
+- 🔎 [**The Seeker**](https://github.com/Ray743/The-Seeker) – Job board platform for Papua New Guinea  
 
 ---
 
