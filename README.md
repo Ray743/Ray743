@@ -1,14 +1,13 @@
 # Hi, I'm Raynold Bobola  
 
-🌍 Based in Papua New Guinea | 💻 Developer | 🚀 Tech Explorer  
+🌍 Based in Papua New Guinea | 💻 Developer | Full Stack 
 
 ---
 
 ## 🔥 About Me
 - 💼 Currently building **Seeker**, a job board for PNG  
-- 🌱 Learning **aAI engineering**  
-- 🎯 Passionate about **Python, AI/ML, and open-source projects**  
-- 📫 Reach me at: **raynolsbobola@gmail.com**  
+- 🌱 Learning **AI engineering**  
+- 🎯 Passionate about **Python, AI/ML, and open-source projects**    
 
 ---
 
