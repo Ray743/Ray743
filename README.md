@@ -5,7 +5,7 @@
 ---
 
 ## 🔥 About Me
-- 💼 Currently building **Seeker**, a job board for PNG  
+- 💼 Currently building **The Seeker**, a job board for PNG  
 - 🌱 Learning **AI engineering**  
 - 🎯 Passionate about **Python, AI/ML, and open-source projects**    
 
