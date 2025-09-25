@@ -1,13 +1,13 @@
 # Hi, I'm Raynold Bobola  
 
-🌍 Based in Papua New Guinea | 💻 Developer | Full Stack 
+Based in Papua New Guinea | 💻 Developer | Full Stack 
 
 ---
 
-## 🔥 About Me
-- 💼 Currently building **The Seeker**, a job board for PNG  
-- 🌱 Learning **AI engineering**  
-- 🎯 Passionate about **Python, AI/ML, and open-source projects**    
+## About Me
+- Currently building **The Seeker**, a job board for PNG  
+- Learning **AI engineering**  
+- Passionate about **Python, AI/ML, and open-source projects**    
 
 ---
 
@@ -19,22 +19,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Raynold's GitHub stats](https://github-readme-stats.vercel.app/api?username=ray743&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ray743&layout=compact&theme=radical)  
 
 ---
 
-## 🚀 Projects
+## Projects
 - 🔎 [**The Seeker**](https://github.com/Ray743/The-Seeker) – Job board platform for Papua New Guinea  
 
 ---
 
-## 🏆 Badges & Stats
+## Badges & Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=ray743&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/ray743?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/ray743?style=social)  
 
 ---
-✨ *Thanks for visiting my profile!*  
