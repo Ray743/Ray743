@@ -12,15 +12,12 @@
 
 ## Communities
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raynold-bobola-740b64341)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@ViReels-i8q)  
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13772807/ray)
   
 
 ---
 
 ## GitHub Stats
-![Raynold's GitHub stats](https://github-readme-stats.vercel.app/api?username=ray743&show_icons=true&theme=radical)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ray743&layout=compact&theme=radical)  
 
 ---
