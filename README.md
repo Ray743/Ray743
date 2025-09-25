@@ -1,6 +1,6 @@
 # Raynold Bobola >> Ray743  
 
-**Port Moresby** | Papua New Guinea | Developer | Full~Stack 
+**Port Moresby | Papua New Guinea | Developer | Full~Stack** 
 
 ---
 
