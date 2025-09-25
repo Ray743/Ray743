@@ -21,7 +21,7 @@
 
 ---
 
-## Skills & Badges
+## Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -68,5 +68,5 @@
 
 ---
 
-## Badges & Stats
+## Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=ray743&color=blue)  
