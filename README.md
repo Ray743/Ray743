@@ -1,6 +1,6 @@
 # Raynold Bobola >> Ray743  
 
-Based in Papua New Guinea | 💻 Developer | Full Stack 
+**Port Moresby** | Papua New Guinea | Developer | Full~Stack 
 
 ---
 
@@ -22,11 +22,6 @@ Based in Papua New Guinea | 💻 Developer | Full Stack
 ![Raynold's GitHub stats](https://github-readme-stats.vercel.app/api?username=ray743&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ray743&layout=compact&theme=radical)  
-
----
-
-## Projects
-- 🔎 [**The Seeker**](https://github.com/Ray743/The-Seeker) – Job board platform for Papua New Guinea  
 
 ---
 
