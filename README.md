@@ -68,5 +68,4 @@
 
 ---
 
-## Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=ray743&color=blue)  
