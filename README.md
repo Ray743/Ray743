@@ -1,4 +1,4 @@
-# Hi, I'm Raynold Bobola  
+# Raynold Bobola . Ray743  
 
 Based in Papua New Guinea | 💻 Developer | Full Stack 
 
